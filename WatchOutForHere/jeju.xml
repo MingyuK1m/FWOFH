@@ -1,0 +1,40 @@
+<root>
+    <searchResult>
+        <frequentzone>
+            <fid>6345549</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>5011025024</occcd>
+            <spotcd>210450001</spotcd>
+            <spot>제주 제주서부1</spot>
+            <spotname>제주특별자치도 제주시 한림읍((제주은행) 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>4</inj_co>
+      
+            <x_crd>126.264110860729</x_crd>
+            <y_crd>33.4147189097508</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345390</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>5013010500</occcd>
+            <spotcd>210350001</spotcd>
+            <spot>제주 서귀포1</spot>
+            <spotname>제주특별자치도 서귀포시 동홍동((서귀포교육청) 부근)</spotname>
+            <occrrnc_co>3</occrrnc_co>
+            <dthinj_co>3</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>0</inj_co>
+        
+            <x_crd>126.567488829747</x_crd>
+            <y_crd>33.2525369283375</y_crd>
+        </frequentzone>
+    </searchResult>
+    <totalCount>2</totalCount>
+    <resultCode>Success</resultCode>
+</root>

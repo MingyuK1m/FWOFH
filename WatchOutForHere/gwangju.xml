@@ -1,0 +1,260 @@
+<root>
+    <searchResult>
+        <frequentzone>
+            <fid>6345580</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2920010900</occcd>
+            <spotcd>240629001</spotcd>
+            <spot>광주 광주광산1</spot>
+            <spotname>광주광역시 광산구 우산동(하남주공아파트 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>5</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.805693365358</x_crd>
+            <y_crd>35.1639676108175</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345579</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2920010900</occcd>
+            <spotcd>240629002</spotcd>
+            <spot>광주 광주광산2</spot>
+            <spotname>광주광역시 광산구 우산동(한국외환은행광산지점 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>3</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+
+            <x_crd>126.807971409254</x_crd>
+            <y_crd>35.1615143124365</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345413</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2920011500</occcd>
+            <spotcd>240629003</spotcd>
+            <spot>광주 광주광산3</spot>
+            <spotname>광주광역시 광산구 월계동(하나산부인과 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.842700574573</x_crd>
+            <y_crd>35.2160817702584</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345653</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2920011600</occcd>
+            <spotcd>240629004</spotcd>
+            <spot>광주 광주광산4</spot>
+            <spotname>광주광역시 광산구 쌍암동(별미콩나물 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.846050497034</x_crd>
+            <y_crd>35.2189763084108</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345432</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2920011900</occcd>
+            <spotcd>240629005</spotcd>
+            <spot>광주 광주광산5</spot>
+            <spotname>광주광역시 광산구 신가동(내고향찐빵손만두 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+
+            <x_crd>126.832510032713</x_crd>
+            <y_crd>35.1844937875591</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345386</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2911013400</occcd>
+            <spotcd>240229001</spotcd>
+            <spot>광주 광주동부1</spot>
+            <spotname>광주광역시 동구 금남로4가(금남로4가역 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>8</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>5</ordnr_co>
+            <inj_co>0</inj_co>
+
+            <x_crd>126.914737949498</x_crd>
+            <y_crd>35.1496171882835</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345384</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2914010400</occcd>
+            <spotcd>240329002</spotcd>
+            <spot>광주 광주서부2</spot>
+            <spotname>광주광역시 서구 양동(양유교종점 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+
+            <x_crd>126.902729800441</x_crd>
+            <y_crd>35.1555380197647</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345559</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2914011900</occcd>
+            <spotcd>240329001</spotcd>
+            <spot>광주 광주서부1</spot>
+            <spotname>광주광역시 서구 화정동(염주동사거리 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.87447416745</x_crd>
+            <y_crd>35.1426017577658</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345576</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2915510300</occcd>
+            <spotcd>240429003</spotcd>
+            <spot>광주 광주남부3</spot>
+            <spotname>광주광역시 남구 서동(SK텔레콤 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+
+            <x_crd>126.905774644086</x_crd>
+            <y_crd>35.1430287720611</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345396</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2915510500</occcd>
+            <spotcd>240429001</spotcd>
+            <spot>광주 광주남부1</spot>
+            <spotname>광주광역시 남구 백운동(광주백운동우체국 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+
+            <x_crd>126.90162637276</x_crd>
+            <y_crd>35.1351350501433</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345556</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2915510800</occcd>
+            <spotcd>240429002</spotcd>
+            <spot>광주 광주남부2</spot>
+            <spotname>광주광역시 남구 진월동(원앙다방 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+
+            <x_crd>126.89872099328</x_crd>
+            <y_crd>35.1176377657712</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345362</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2917010100</occcd>
+            <spotcd>240529002</spotcd>
+            <spot>광주 광주북부2</spot>
+            <spotname>광주광역시 북구 중흥동(부담없는집 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+
+            <x_crd>126.919771472976</x_crd>
+            <y_crd>35.1720703567624</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345573</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2917010700</occcd>
+            <spotcd>240529001</spotcd>
+            <spot>광주 광주북부1</spot>
+            <spotname>광주광역시 북구 용봉동(유진카독크 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.897812657329</x_crd>
+            <y_crd>35.1792626389605</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345489</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2917011200</occcd>
+            <spotcd>240529004</spotcd>
+            <spot>광주 광주북부4</spot>
+            <spotname>광주광역시 북구 문흥동(조성희가정의학과 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+   
+            <x_crd>126.916105511661</x_crd>
+            <y_crd>35.1795515200875</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345356</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2917011700</occcd>
+            <spotcd>240529003</spotcd>
+            <spot>광주 광주북부3</spot>
+            <spotname>광주광역시 북구 매곡동(기계공고입구A 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.898550703953</x_crd>
+            <y_crd>35.187579885804</y_crd>
+        </frequentzone>
+    </searchResult>
+    <totalCount>15</totalCount>
+    <resultCode>Success</resultCode>
+</root>

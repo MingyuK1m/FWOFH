@@ -1,0 +1,972 @@
+<root>
+    <searchResult>
+        <frequentzone>
+            <fid>6345678</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1141011800</occcd>
+            <spotcd>110811001</spotcd>
+            <spot>서울 서울서대문1</spot>
+            <spotname>서울특별시 서대문구 홍은동(명지대입구 부근)</spotname>
+            <occrrnc_co>9</occrrnc_co>
+            <dthinj_co>10</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>2</inj_co>
+            <x_crd>126.926632934164</x_crd>
+            <y_crd>37.5805623856465</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345672</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1141012000</occcd>
+            <spotcd>110811003</spotcd>
+            <spot>서울 서울서대문3</spot>
+            <spotname>서울특별시 서대문구 남가좌동(가좌동광교회 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.92336488778</x_crd>
+            <y_crd>37.5772636076303</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345679</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1144010400</occcd>
+            <spotcd>111511001</spotcd>
+            <spot>서울 서울마포1</spot>
+            <spotname>서울특별시 마포구 도화동(진도빌딩 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>8</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>6</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.947765918563</x_crd>
+            <y_crd>37.5404499424118</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345478</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1144012100</occcd>
+            <spotcd>111511002</spotcd>
+            <spot>서울 서울마포2</spot>
+            <spotname>서울특별시 마포구 동교동(청원제일주유소 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>0</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>126.922842508476</x_crd>
+            <y_crd>37.5562454513674</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345528</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1147010200</occcd>
+            <spotcd>112911002</spotcd>
+            <spot>서울 서울양천2</spot>
+            <spotname>서울특별시 양천구 목동(목동사거리 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>5</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.863525881116</x_crd>
+            <y_crd>37.5323715339201</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345460</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1147010200</occcd>
+            <spotcd>112911003</spotcd>
+            <spot>서울 서울양천3</spot>
+            <spotname>서울특별시 양천구 목동(SC제일은행등촌지점 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.86475814927</x_crd>
+            <y_crd>37.5485483176516</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345513</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1147010300</occcd>
+            <spotcd>112911005</spotcd>
+            <spot>서울 서울양천5</spot>
+            <spotname>서울특별시 양천구 신월동(반석교회 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.833541118029</x_crd>
+            <y_crd>37.5219767758085</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345317</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1147010300</occcd>
+            <spotcd>112911006</spotcd>
+            <spot>서울 서울양천6</spot>
+            <spotname>서울특별시 양천구 신월동(삼오빌딩 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.833483862691</x_crd>
+            <y_crd>37.5365863370907</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345543</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1150010300</occcd>
+            <spotcd>112311001</spotcd>
+            <spot>서울 서울강서1</spot>
+            <spotname>서울특별시 강서구 화곡동(형제빌딩 부근)</spotname>
+            <occrrnc_co>9</occrrnc_co>
+            <dthinj_co>9</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>6</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>126.846416182062</x_crd>
+            <y_crd>37.5324951529299</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345293</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1150010300</occcd>
+            <spotcd>112311002</spotcd>
+            <spot>서울 서울강서2</spot>
+            <spotname>서울특별시 강서구 화곡동(우장공원입구 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>126.850884103919</x_crd>
+            <y_crd>37.5531868885649</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345269</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1111012300</occcd>
+            <spotcd>110611002</spotcd>
+            <spot>서울 서울종로2</spot>
+            <spotname>서울특별시 종로구 서린동(종로구청입구 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.979973553938</x_crd>
+            <y_crd>37.5704587884432</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345268</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1111013800</occcd>
+            <spotcd>110611001</spotcd>
+            <spot>서울 서울종로1</spot>
+            <spotname>서울특별시 종로구 종로2가(종각지하쇼핑센터 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.985127916621</x_crd>
+            <y_crd>37.5701091994809</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345300</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1153010200</occcd>
+            <spotcd>112711004</spotcd>
+            <spot>서울 서울구로4</spot>
+            <spotname>서울특별시 구로구 구로동(민영규치과의원 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.883939865633</x_crd>
+            <y_crd>37.4907391159184</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345410</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1153010200</occcd>
+            <spotcd>112711005</spotcd>
+            <spot>서울 서울구로5</spot>
+            <spotname>서울특별시 구로구 구로동(대림역 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.895495342737</x_crd>
+            <y_crd>37.4921680595093</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345273</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1114016200</occcd>
+            <spotcd>110411002</spotcd>
+            <spot>서울 서울중부2</spot>
+            <spotname>서울특별시 중구 신당동(약수고가차도(북측) 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>127.00865738653</x_crd>
+            <y_crd>37.5575515421708</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345271</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1114016500</occcd>
+            <spotcd>110411001</spotcd>
+            <spot>서울 서울중부1</spot>
+            <spotname>서울특별시 중구 황학동(신당중앙시장 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>2</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.019085844937</x_crd>
+            <y_crd>37.5655886933644</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345335</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1153010300</occcd>
+            <spotcd>112711001</spotcd>
+            <spot>서울 서울구로1</spot>
+            <spotname>서울특별시 구로구 가리봉동(남구로역_주은길_진출 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>8</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.886460874871</x_crd>
+            <y_crd>37.4838201008179</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345571</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1153010600</occcd>
+            <spotcd>112711003</spotcd>
+            <spot>서울 서울구로3</spot>
+            <spotname>서울특별시 구로구 고척동(상암빌딩 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.849319924776</x_crd>
+            <y_crd>37.5025856577028</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345272</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1114016600</occcd>
+            <spotcd>110511001</spotcd>
+            <spot>서울 서울남대문1</spot>
+            <spotname>서울특별시 중구 서소문동(제일화재해상보험(주)_서소문로_ 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>2</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.975353200591</x_crd>
+            <y_crd>37.563652896365</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345587</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1117011200</occcd>
+            <spotcd>111011002</spotcd>
+            <spot>서울 서울용산2</spot>
+            <spotname>서울특별시 용산구 원효로1가(용산구청 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>126.966063698482</x_crd>
+            <y_crd>37.5378731410335</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345338</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1153010700</occcd>
+            <spotcd>112711002</spotcd>
+            <spot>서울 서울구로2</spot>
+            <spotname>서울특별시 구로구 개봉동(개봉사거리 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.856552993927</x_crd>
+            <y_crd>37.4974393115759</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345414</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1154510100</occcd>
+            <spotcd>111711001</spotcd>
+            <spot>서울 서울금천1</spot>
+            <spotname>서울특별시 금천구 가산동(공단오거리 부근)</spotname>
+            <occrrnc_co>9</occrrnc_co>
+            <dthinj_co>9</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>5</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.889622192411</x_crd>
+            <y_crd>37.4788382505857</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345443</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1117012500</occcd>
+            <spotcd>111011003</spotcd>
+            <spot>서울 서울용산3</spot>
+            <spotname>서울특별시 용산구 한강로2가(자갈치회마당 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.97019445641</x_crd>
+            <y_crd>37.5315732731889</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345275</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1117013100</occcd>
+            <spotcd>111011004</spotcd>
+            <spot>서울 서울용산4</spot>
+            <spotname>서울특별시 용산구 한남동(순천향병원 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.005345042241</x_crd>
+            <y_crd>37.5334138958355</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345469</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1154510200</occcd>
+            <spotcd>111711002</spotcd>
+            <spot>서울 서울금천2</spot>
+            <spotname>서울특별시 금천구 독산동(가산중(가남물산앞) 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>126.896000671795</x_crd>
+            <y_crd>37.4666482604098</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345535</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1156010300</occcd>
+            <spotcd>111611003</spotcd>
+            <spot>서울 서울영등포3</spot>
+            <spotname>서울특별시 영등포구 영등포동2가(여의2교지하차도(남측) 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.911147733582</x_crd>
+            <y_crd>37.5226803649078</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345274</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1117013600</occcd>
+            <spotcd>111011001</spotcd>
+            <spot>서울 서울용산1</spot>
+            <spotname>서울특별시 용산구 보광동(81번종점 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.000151295547</x_crd>
+            <y_crd>37.526824825806</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345278</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1121510700</occcd>
+            <spotcd>111411001</spotcd>
+            <spot>서울 서울광진1</spot>
+            <spotname>서울특별시 광진구 화양동(건대입구역 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.069462285757</x_crd>
+            <y_crd>37.5402918892602</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345308</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1147010300</occcd>
+            <spotcd>112911001</spotcd>
+            <spot>서울 서울양천1</spot>
+            <spotname>서울특별시 양천구 신월동(신월사거리 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>8</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>6</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>126.827481406942</x_crd>
+            <y_crd>37.5357140549606</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345503</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1147010300</occcd>
+            <spotcd>112911004</spotcd>
+            <spot>서울 서울양천4</spot>
+            <spotname>서울특별시 양천구 신월동(신월정수사업소앞 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>126.832741598247</x_crd>
+            <y_crd>37.529195337096</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345287</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1126010500</occcd>
+            <spotcd>112011001</spotcd>
+            <spot>서울 서울중랑1</spot>
+            <spotname>서울특별시 중랑구 망우동(상봉시외버스터미널앞 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.093072886206</x_crd>
+            <y_crd>37.595816261712</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345482</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1129013400</occcd>
+            <spotcd>112611002</spotcd>
+            <spot>서울 서울종암2</spot>
+            <spotname>서울특별시 성북구 길음동(길음뉴타운1단지 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.024164881305</x_crd>
+            <y_crd>37.6061837901507</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345635</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1168010600</occcd>
+            <spotcd>113411001</spotcd>
+            <spot>서울 서울수서1</spot>
+            <spotname>서울특별시 강남구 대치동(우석빌딩 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.060158570762</x_crd>
+            <y_crd>37.5000554996625</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345634</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1168010800</occcd>
+            <spotcd>112211001</spotcd>
+            <spot>서울 서울강남1</spot>
+            <spotname>서울특별시 강남구 논현동(청하빌딩 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>5</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.023327251852</x_crd>
+            <y_crd>37.5071661090296</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345307</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1129013800</occcd>
+            <spotcd>112611001</spotcd>
+            <spot>서울 서울종암1</spot>
+            <spotname>서울특별시 성북구 장위동(정외과의원 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>127.049958862113</x_crd>
+            <y_crd>37.6173914067889</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345620</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1130510300</occcd>
+            <spotcd>111211001</spotcd>
+            <spot>서울 서울강북1</spot>
+            <spotname>서울특별시 강북구 수유동(우이시장 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>127.019364870394</x_crd>
+            <y_crd>37.6453801281913</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345424</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1168010800</occcd>
+            <spotcd>112211002</spotcd>
+            <spot>서울 서울강남2</spot>
+            <spotname>서울특별시 강남구 논현동(치킨동호 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.03226920646</x_crd>
+            <y_crd>37.5106625994003</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345347</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1171010400</occcd>
+            <spotcd>112511002</spotcd>
+            <spot>서울 서울송파2</spot>
+            <spotname>서울특별시 송파구 송파동(송파여성문화회관 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>0</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            
+            <x_crd>127.107830198906</x_crd>
+            <y_crd>37.5071849804034</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345518</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1132010600</occcd>
+            <spotcd>113111001</spotcd>
+            <spot>서울 서울도봉1</spot>
+            <spotname>서울특별시 도봉구 방학동(LG대경주유소 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.043110043595</x_crd>
+            <y_crd>37.6661393975161</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345365</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1135010300</occcd>
+            <spotcd>113011002</spotcd>
+            <spot>서울 서울노원2</spot>
+            <spotname>서울특별시 노원구 공릉동(반야빌딩 부근)</spotname>
+            <occrrnc_co>3</occrrnc_co>
+            <dthinj_co>3</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>1</inj_co>
+            
+            <x_crd>127.079638220828</x_crd>
+            <y_crd>37.6249222936298</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345558</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1135010600</occcd>
+            <spotcd>113011001</spotcd>
+            <spot>서울 서울노원1</spot>
+            <spotname>서울특별시 노원구 중계동(삿갓봉근린공원 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>127.075268248632</x_crd>
+            <y_crd>37.6578257830344</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345641</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1138010900</occcd>
+            <spotcd>110911001</spotcd>
+            <spot>서울 서울서부1</spot>
+            <spotname>서울특별시 은평구 신사동(신사사거리 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.909065874991</x_crd>
+            <y_crd>37.596008761596</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345458</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1141011200</occcd>
+            <spotcd>110811002</spotcd>
+            <spot>서울 서울서대문2</spot>
+            <spotname>서울특별시 서대문구 대현동(신촌기차역_신촌역길_진입 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.942857218287</x_crd>
+            <y_crd>37.5579651475744</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345433</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1141011700</occcd>
+            <spotcd>110811004</spotcd>
+            <spot>서울 서울서대문4</spot>
+            <spotname>서울특별시 서대문구 연희동(임광아파트 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.928756113905</x_crd>
+            <y_crd>37.5660459266791</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345538</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1156011300</occcd>
+            <spotcd>111611004</spotcd>
+            <spot>서울 서울영등포4</spot>
+            <spotname>서울특별시 영등포구 당산동3가(영등포구청역 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.896477647926</x_crd>
+            <y_crd>37.5251905382137</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345354</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1156013200</occcd>
+            <spotcd>111611001</spotcd>
+            <spot>서울 서울영등포1</spot>
+            <spotname>서울특별시 영등포구 신길동(우신초등교앞 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.910606020652</x_crd>
+            <y_crd>37.509811713041</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345553</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1156013300</occcd>
+            <spotcd>111611002</spotcd>
+            <spot>서울 서울영등포2</spot>
+            <spotname>서울특별시 영등포구 대림동(대림우성아파트사거리_대림로_진 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.901199903454</x_crd>
+            <y_crd>37.4932516058778</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345467</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1159010700</occcd>
+            <spotcd>111911001</spotcd>
+            <spot>서울 서울동작1</spot>
+            <spotname>서울특별시 동작구 사당동(이수역_사당로_진출_2 부근)</spotname>
+            <occrrnc_co>8</occrrnc_co>
+            <dthinj_co>9</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>8</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.980270184523</x_crd>
+            <y_crd>37.4848587134597</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345574</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1159010700</occcd>
+            <spotcd>111911002</spotcd>
+            <spot>서울 서울동작2</spot>
+            <spotname>서울특별시 동작구 사당동(대림쇼핑센타 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>126.946788177434</x_crd>
+            <y_crd>37.5055700776978</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345442</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1162010100</occcd>
+            <spotcd>112111001</spotcd>
+            <spot>서울 서울관악1</spot>
+            <spotname>서울특별시 관악구 봉천동(진아빌리지 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>8</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>2</inj_co>
+            <x_crd>126.936331678166</x_crd>
+            <y_crd>37.4862947230239</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345633</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1162010100</occcd>
+            <spotcd>112111002</spotcd>
+            <spot>서울 서울관악2</spot>
+            <spotname>서울특별시 관악구 봉천동(공사중 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>126.94974614477</x_crd>
+            <y_crd>37.4815653466643</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345610</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1162010200</occcd>
+            <spotcd>112111003</spotcd>
+            <spot>서울 서울관악3</spot>
+            <spotname>서울특별시 관악구 신림동(신림역_신림로_진입_1 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.929883809791</x_crd>
+            <y_crd>37.4844919600368</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345608</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1165010800</occcd>
+            <spotcd>112811001</spotcd>
+            <spot>서울 서울서초1</spot>
+            <spotname>서울특별시 서초구 서초동(교대역사거리_서초로_진출_1 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.014015939385</x_crd>
+            <y_crd>37.493944208859</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345541</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1168010300</occcd>
+            <spotcd>112411004</spotcd>
+            <spot>서울 서울강동4</spot>
+            <spotname>서울특별시 강남구 개포동(둔촌동역 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>127.137786838393</x_crd>
+            <y_crd>37.5283393929495</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345655</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1174010800</occcd>
+            <spotcd>112411001</spotcd>
+            <spot>서울 서울강동1</spot>
+            <spotname>서울특별시 강동구 성내동(길동사거리_일반국도43호선_진출 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.137861373305</x_crd>
+            <y_crd>37.5339911310867</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345346</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1174010900</occcd>
+            <spotcd>112411003</spotcd>
+            <spot>서울 서울강동3</spot>
+            <spotname>서울특별시 강동구 천호동(천호초교입구 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.13377942698</x_crd>
+            <y_crd>37.5460598090139</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345630</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1171010700</occcd>
+            <spotcd>112511001</spotcd>
+            <spot>서울 서울송파1</spot>
+            <spotname>서울특별시 송파구 가락동(진성빌딩앞 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>5</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.118391425125</x_crd>
+            <y_crd>37.4943871897179</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345427</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>1174010200</occcd>
+            <spotcd>112411002</spotcd>
+            <spot>서울 서울강동2</spot>
+            <spotname>서울특별시 강동구 고덕동(E마트 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>127.156711551898</x_crd>
+            <y_crd>37.5553493749746</y_crd>
+        </frequentzone>
+    </searchResult>
+    <totalCount>58</totalCount>
+    <resultCode>Success</resultCode>
+</root>
