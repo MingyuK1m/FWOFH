@@ -20,6 +20,7 @@ class NaviController: UINavigationController {
         
         
         TableViewController.test = mtest
+        AMKP.test = mtest
         print("네비 \(mtest)")
     }
     

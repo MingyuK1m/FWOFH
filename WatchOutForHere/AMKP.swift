@@ -16,12 +16,14 @@ class AMKP: UIViewController, XMLParserDelegate, MKMapViewDelegate {
     var elements:[[String:String]] = []
     var currentElement = ""
     
+    static var test = ""
+    
     @IBOutlet weak var map: MKMapView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        if let path = Bundle.main.url(forResource: "busan", withExtension: "xml") {
+        if let path = Bundle.main.url(forResource: AMKP.test, withExtension: "xml") {
             
             if let parser = XMLParser(contentsOf: path) {
                 parser.delegate = self
