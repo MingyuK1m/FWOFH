@@ -1,0 +1,38 @@
+<root>
+    <searchResult>
+        <frequentzone>
+            <fid>6345299</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3111010500</occcd>
+            <spotcd>260231001</spotcd>
+            <spot>울산 울산중부1</spot>
+            <spotname>울산광역시 중구 옥교동(안국한의원앞사거리 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.324364672793</x_crd>
+            <y_crd>35.5552674300487</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345449</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3114010100</occcd>
+            <spotcd>260331001</spotcd>
+            <spot>울산 울산남부1</spot>
+            <spotname>울산광역시 남구 무거동(신부로터리 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.263538206024</x_crd>
+            <y_crd>35.5504119921206</y_crd>
+        </frequentzone>
+    </searchResult>
+    <totalCount>2</totalCount>
+    <resultCode>Success</resultCode>
+</root>

@@ -1,0 +1,150 @@
+<root>
+    <searchResult>
+        <frequentzone>
+            <fid>6345681</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2711010500</occcd>
+            <spotcd>223227001</spotcd>
+            <spot>대구 대구중부1</spot>
+            <spotname>대구광역시 중구 삼덕동1가(항아리 숯불갈비 부근)</spotname>
+            <occrrnc_co>11</occrrnc_co>
+            <dthinj_co>13</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>8</ordnr_co>
+            <inj_co>3</inj_co>
+            <x_crd>128.59901070648</x_crd>
+            <y_crd>35.8671575137092</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345652</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2711012200</occcd>
+            <spotcd>223227002</spotcd>
+            <spot>대구 대구중부2</spot>
+            <spotname>대구광역시 중구 공평동(앰버서더호텔앞 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>128.597767881184</x_crd>
+            <y_crd>35.8705545246725</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345565</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2711014300</occcd>
+            <spotcd>223227003</spotcd>
+            <spot>대구 대구중부3</spot>
+            <spotname>대구광역시 중구 포정동(GS25 포정동점 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>128.593978987042</x_crd>
+            <y_crd>35.8720060637298</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345647</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2714010100</occcd>
+            <spotcd>220427001</spotcd>
+            <spot>대구 대구동부1</spot>
+            <spotname>대구광역시 동구 신암동(경대정문B 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>128.613750925766</x_crd>
+            <y_crd>35.8845598053916</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345650</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2717010100</occcd>
+            <spotcd>223027003</spotcd>
+            <spot>대구 대구서부3</spot>
+            <spotname>대구광역시 서구 내당동(대구스포츠사 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>2</inj_co>
+            <x_crd>128.550985711323</x_crd>
+            <y_crd>35.8593956126183</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345450</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2717010300</occcd>
+            <spotcd>223027001</spotcd>
+            <spot>대구 대구서부1</spot>
+            <spotname>대구광역시 서구 평리동(평리광명네거리 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>128.555681882914</x_crd>
+            <y_crd>35.8756061029402</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345407</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2717010300</occcd>
+            <spotcd>223027002</spotcd>
+            <spot>대구 대구서부2</spot>
+            <spotname>대구광역시 서구 평리동(서대구전화국사거리 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>128.562974780363</x_crd>
+            <y_crd>35.8710934658916</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345644</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2723011800</occcd>
+            <spotcd>223427001</spotcd>
+            <spot>대구 대구강북1</spot>
+            <spotname>대구광역시 북구 읍내동(칠곡지하차도 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>128.548281288052</x_crd>
+            <y_crd>35.9316521118564</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345594</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2729012200</occcd>
+            <spotcd>220627001</spotcd>
+            <spot>대구 대구달서1</spot>
+            <spotname>대구광역시 달서구 송현동(머구리숯불막창 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>128.553081395191</x_crd>
+            <y_crd>35.8337071420718</y_crd>
+        </frequentzone>
+    </searchResult>
+    <totalCount>9</totalCount>
+    <resultCode>Success</resultCode>
+</root>

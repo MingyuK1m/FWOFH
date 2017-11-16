@@ -26,6 +26,10 @@
 		14A914941FB0306200BAA8B3 /* MK.png in Resources */ = {isa = PBXBuildFile; fileRef = 14A914931FB0306200BAA8B3 /* MK.png */; };
 		14A914961FB0311D00BAA8B3 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A914951FB0311D00BAA8B3 /* TableViewController.swift */; };
 		14A9149A1FB0320200BAA8B3 /* CIA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A914991FB0320200BAA8B3 /* CIA.swift */; };
+		14E2ECAC1FBD2AFA009F56AC /* daegu.xml in Resources */ = {isa = PBXBuildFile; fileRef = 14E2ECA81FBD2AFA009F56AC /* daegu.xml */; };
+		14E2ECAD1FBD2AFA009F56AC /* daejun.xml in Resources */ = {isa = PBXBuildFile; fileRef = 14E2ECA91FBD2AFA009F56AC /* daejun.xml */; };
+		14E2ECAE1FBD2AFA009F56AC /* inchun.xml in Resources */ = {isa = PBXBuildFile; fileRef = 14E2ECAA1FBD2AFA009F56AC /* inchun.xml */; };
+		14E2ECAF1FBD2AFA009F56AC /* ulsan.xml in Resources */ = {isa = PBXBuildFile; fileRef = 14E2ECAB1FBD2AFA009F56AC /* ulsan.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +75,10 @@
 		14A914931FB0306200BAA8B3 /* MK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MK.png; sourceTree = "<group>"; };
 		14A914951FB0311D00BAA8B3 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		14A914991FB0320200BAA8B3 /* CIA.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CIA.swift; path = ../CIA.swift; sourceTree = "<group>"; };
+		14E2ECA81FBD2AFA009F56AC /* daegu.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = daegu.xml; sourceTree = "<group>"; };
+		14E2ECA91FBD2AFA009F56AC /* daejun.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = daejun.xml; sourceTree = "<group>"; };
+		14E2ECAA1FBD2AFA009F56AC /* inchun.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = inchun.xml; sourceTree = "<group>"; };
+		14E2ECAB1FBD2AFA009F56AC /* ulsan.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = ulsan.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +132,10 @@
 			isa = PBXGroup;
 			children = (
 				149A987E1FB9602A006173B2 /* ttt.png */,
+				14E2ECA81FBD2AFA009F56AC /* daegu.xml */,
+				14E2ECA91FBD2AFA009F56AC /* daejun.xml */,
+				14E2ECAA1FBD2AFA009F56AC /* inchun.xml */,
+				14E2ECAB1FBD2AFA009F56AC /* ulsan.xml */,
 				1440FB441FB3F0A40078BAC9 /* gwangju.xml */,
 				1440FB421FB3F09D0078BAC9 /* jeju.xml */,
 				1440FB401FB3F0920078BAC9 /* seoul.xml */,
@@ -278,13 +290,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				14A9146D1FB02EEC00BAA8B3 /* LaunchScreen.storyboard in Resources */,
+				14E2ECAD1FBD2AFA009F56AC /* daejun.xml in Resources */,
 				14A914941FB0306200BAA8B3 /* MK.png in Resources */,
+				14E2ECAF1FBD2AFA009F56AC /* ulsan.xml in Resources */,
 				14A9146A1FB02EEC00BAA8B3 /* Assets.xcassets in Resources */,
 				149A987F1FB9602A006173B2 /* ttt.png in Resources */,
 				14A4F3B61FB034A2009F366F /* busan.xml in Resources */,
+				14E2ECAE1FBD2AFA009F56AC /* inchun.xml in Resources */,
 				1440FB411FB3F0920078BAC9 /* seoul.xml in Resources */,
 				1440FB451FB3F0A40078BAC9 /* gwangju.xml in Resources */,
 				1440FB431FB3F09D0078BAC9 /* jeju.xml in Resources */,
+				14E2ECAC1FBD2AFA009F56AC /* daegu.xml in Resources */,
 				14A914681FB02EEC00BAA8B3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

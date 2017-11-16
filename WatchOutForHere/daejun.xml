@@ -1,0 +1,150 @@
+<root>
+    <searchResult>
+        <frequentzone>
+            <fid>6345600</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3011010200</occcd>
+            <spotcd>250330001</spotcd>
+            <spot>대전 대전동부1</spot>
+            <spotname>대전광역시 동구 인동(동대전농협인효로지점 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.438910995747</x_crd>
+            <y_crd>36.3193851604976</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345321</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3023011000</occcd>
+            <spotcd>250530001</spotcd>
+            <spot>대전 대전대덕1</spot>
+            <spotname>대전광역시 대덕구 비래동(동의당한의원 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.449826966742</x_crd>
+            <y_crd>36.3553233213151</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345694</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3023011500</occcd>
+            <spotcd>250530002</spotcd>
+            <spot>대전 대전대덕2</spot>
+            <spotname>대전광역시 대덕구 덕암동(상아치과 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.425585682534</x_crd>
+            <y_crd>36.4438834725451</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345603</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3011010200</occcd>
+            <spotcd>250330002</spotcd>
+            <spot>대전 대전동부2</spot>
+            <spotname>대전광역시 동구 인동(상인교육관 부근)</spotname>
+            <occrrnc_co>3</occrrnc_co>
+            <dthinj_co>3</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.433802704432</x_crd>
+            <y_crd>36.3262946652675</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345605</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3014010200</occcd>
+            <spotcd>250230002</spotcd>
+            <spot>대전 대전중부2</spot>
+            <spotname>대전광역시 중구 선화동(대광공사 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.419543792413</x_crd>
+            <y_crd>36.329961496227</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345657</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3014011400</occcd>
+            <spotcd>250230001</spotcd>
+            <spot>대전 대전중부1</spot>
+            <spotname>대전광역시 중구 태평동(태평오거리 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.394640557717</x_crd>
+            <y_crd>36.325476297494</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345687</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3017010600</occcd>
+            <spotcd>250630002</spotcd>
+            <spot>대전 대전둔산2</spot>
+            <spotname>대전광역시 서구 탄방동(공작사거리 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>0</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.395516192519</x_crd>
+            <y_crd>36.3488593415863</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345682</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3017011100</occcd>
+            <spotcd>250630001</spotcd>
+            <spot>대전 대전둔산1</spot>
+            <spotname>대전광역시 서구 갈마동(새소망교회 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>11</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>7</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>127.375624292328</x_crd>
+            <y_crd>36.3470789042689</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345313</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>3020011100</occcd>
+            <spotcd>250730001</spotcd>
+            <spot>대전 대전유성1</spot>
+            <spotname>대전광역시 유성구 봉명동(신뜸부대찌게 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>127.342543848721</x_crd>
+            <y_crd>36.3565434477229</y_crd>
+        </frequentzone>
+    </searchResult>
+    <totalCount>9</totalCount>
+    <resultCode>Success</resultCode>
+</root>

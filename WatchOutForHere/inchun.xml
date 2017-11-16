@@ -1,0 +1,182 @@
+<root>
+    <searchResult>
+        <frequentzone>
+            <fid>6345551</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2823710600</occcd>
+            <spotcd>231028001</spotcd>
+            <spot>인천 인천삼산1</spot>
+            <spotname>인천광역시 부평구 갈산동(삼산타운 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.73285165658</x_crd>
+            <y_crd>37.508655780241</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345348</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2824510200</occcd>
+            <spotcd>230728002</spotcd>
+            <spot>인천 인천계양2</spot>
+            <spotname>인천광역시 계양구 계산동(교대사거리 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.724636418937</x_crd>
+            <y_crd>37.5382652886131</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345640</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2824510200</occcd>
+            <spotcd>230728003</spotcd>
+            <spot>인천 인천계양3</spot>
+            <spotname>인천광역시 계양구 계산동(계산삼거리 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.723089387167</x_crd>
+            <y_crd>37.5433657117591</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345514</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2824510300</occcd>
+            <spotcd>230728001</spotcd>
+            <spot>인천 인천계양1</spot>
+            <spotname>인천광역시 계양구 작전동(이학갈비 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>2</inj_co>
+            <x_crd>126.728051694231</x_crd>
+            <y_crd>37.5375558170482</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345404</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2826011000</occcd>
+            <spotcd>230628002</spotcd>
+            <spot>인천 인천서부2</spot>
+            <spotname>인천광역시 서구 석남동(SK테레콤 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.669025676495</x_crd>
+            <y_crd>37.5136311337707</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345615</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2826011200</occcd>
+            <spotcd>230628001</spotcd>
+            <spot>인천 인천서부1</spot>
+            <spotname>인천광역시 서구 가좌동(서인천통일교회 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>0</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.678597090884</x_crd>
+            <y_crd>37.4933016198747</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345325</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2817010800</occcd>
+            <spotcd>230328004</spotcd>
+            <spot>인천 인천남부4</spot>
+            <spotname>인천광역시 남구 관교동(삼환아파트 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.696039706368</x_crd>
+            <y_crd>37.4448028987357</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345311</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2818510100</occcd>
+            <spotcd>230928001</spotcd>
+            <spot>인천 인천연수1</spot>
+            <spotname>인천광역시 연수구 옥련동(푸른의원 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>126.645882465404</x_crd>
+            <y_crd>37.424428032029</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345305</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2817010100</occcd>
+            <spotcd>230328002</spotcd>
+            <spot>인천 인천남부2</spot>
+            <spotname>인천광역시 남구 숭의동(숭의오거리 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.649220373822</x_crd>
+            <y_crd>37.4581442459611</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345306</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2817010600</occcd>
+            <spotcd>230328001</spotcd>
+            <spot>인천 인천남부1</spot>
+            <spotname>인천광역시 남구 주안동(대한산업안전기술원 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.679836183095</x_crd>
+            <y_crd>37.4533879969594</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <fid>6345361</fid>
+            <grp_id>2017081</grp_id>
+            <occcd>2817010600</occcd>
+            <spotcd>230328003</spotcd>
+            <spot>인천 인천남부3</spot>
+            <spotname>인천광역시 남구 주안동(소.돼지매장 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>126.67738583449</x_crd>
+            <y_crd>37.4482862446154</y_crd>
+        </frequentzone>
+    </searchResult>
+    <totalCount>11</totalCount>
+    <resultCode>Success</resultCode>
+</root>
