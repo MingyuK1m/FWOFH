@@ -8,18 +8,20 @@
 
 import UIKit
 
-class NaviController: UINavigationController {
 
+
+class NaviController: UINavigationController {
+    
     var mtest = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("네비세그는 12" + mtest)
         
+        
+        
+        TableViewController.test = mtest
+        print("네비 \(mtest)")
     }
+    
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-     
-    }
 }

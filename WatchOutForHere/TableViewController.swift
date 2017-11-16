@@ -1,12 +1,16 @@
 
 import UIKit
 
+
+
 class TableViewController: UITableViewController, XMLParserDelegate {
     
     var strXMLData: String = ""
     var item:[String:String] = [:]
     var elements:[[String:String]] = []
     var currentElement = ""
+    
+    static var test = ""
     @IBOutlet weak var mytable: UITableView!
     
     //JDth = 사상자 (주니어 Death)
@@ -16,14 +20,14 @@ class TableViewController: UITableViewController, XMLParserDelegate {
     //EA = 발생건수
     //Crash = 사고가난곳
     
-    var test = NaviController().mtest
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
         self.title = "보행자 교통사고"
         
-        if let path = Bundle.main.url(forResource: test, withExtension: "xml") {
+        
+        
+        if let path = Bundle.main.url(forResource: TableViewController.test, withExtension: "xml") {
             
             if let parser = XMLParser(contentsOf: path) {
                 parser.delegate = self
@@ -38,7 +42,7 @@ class TableViewController: UITableViewController, XMLParserDelegate {
         } else {
             print("xml file not found!!")
         }
-        print("세그는" + test)
+        
     }
     
     func parser(_ parser: XMLParser, didStartElement elementName: String, namespaceURI: String?, qualifiedName qName: String?, attributes attributeDict: [String : String]) {
@@ -125,7 +129,6 @@ class TableViewController: UITableViewController, XMLParserDelegate {
         }
         
     }
-    
     
     
     @IBAction func back(_ sender: UIBarButtonItem) {

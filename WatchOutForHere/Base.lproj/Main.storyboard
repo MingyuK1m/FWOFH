@@ -142,9 +142,9 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Root View Controller" id="To1-oC-K8h">
-                        <barButtonItem key="leftBarButtonItem" title="뒤로" id="8ab-lV-aL6">
+                        <barButtonItem key="leftBarButtonItem" title="back" id="vRb-3x-Dj6">
                             <connections>
-                                <action selector="back:" destination="EqI-N7-UIc" id="sy1-Nv-tO3"/>
+                                <action selector="back:" destination="EqI-N7-UIc" id="lll-kI-OTv"/>
                             </connections>
                         </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" title="all" id="USa-3C-tnL">
